@@ -1,0 +1,14 @@
+telegram_key = ''
+chat_id = ''
+api_key = ''
+api_secret = ''
+LVL = 1000000
+volume = 50
+balance = 50000
+stop_loss_need = 0.3
+take_profit_need = 1
+delta_need = 90
+cound_takes = 4
+lvl_percent = 100
+wait_find_coin_minute = 10
+wait_close_position_minute = 5

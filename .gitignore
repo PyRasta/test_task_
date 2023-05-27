@@ -1,0 +1,9 @@
+venv/
+test.py
+.idea/
+package-lock.json
+package.json
+test.py
+node_modules/
+__pycache__/
+lvl.json
